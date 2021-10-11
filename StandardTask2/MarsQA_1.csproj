@@ -51,8 +51,4 @@
     <Reference Include="System.Activities" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Steps\ManageRequetsSteps\" />
-  </ItemGroup>
-
 </Project>
